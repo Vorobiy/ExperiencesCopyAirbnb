@@ -46,19 +46,19 @@ To get a local copy of the project up and running, follow these simple steps:
 
    ```bash
    git clone https://github.com/your-username/airbnb-experiences-clone.git
-Navigate to the project directory:
 
+Navigate to the project directory:
   ```bash
 Copy code
 cd airbnb-experiences-clone
-Install dependencies:
 
+Install dependencies:
  ```bash
 Copy code
 npm install
 Running the App
-Once the dependencies are installed, you can start the development server:
 
+Once the dependencies are installed, you can start the development server:
  ```bash
 Copy code
 npm start
